@@ -1,0 +1,8 @@
+@charset "utf-8";
+
+.fa-shop,
+.fa-utensils,
+.fa-list,
+.fa-user {
+  color: orangered;
+}

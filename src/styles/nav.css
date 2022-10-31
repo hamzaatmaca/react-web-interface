@@ -1,0 +1,31 @@
+@charset "utf-8";
+
+.nav-item {
+  margin-right: 3rem !important;
+}
+.navlinkItems {
+  color: white;
+  text-decoration: none;
+  letter-spacing: 5px;
+  transition: 0.25s ease;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 18px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: row;
+}
+.navlinkItems:hover {
+  color: orange;
+}
+.logo {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  letter-spacing: 2px;
+  color: white;
+}
+.navbar-expand-lg {
+  background-color: orangered;
+}
+.linkText {
+  margin-left: 8px;
+}
